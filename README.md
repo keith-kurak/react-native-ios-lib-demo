@@ -1,13 +1,13 @@
 
-# react-native-react-native-ios-lib-demo
+# react-native-ios-lib-demo
 
 ## Getting started
 
-`$ npm install react-native-react-native-ios-lib-demo --save`
+`$ npm install react-native-ios-lib-demo --save`
 
 ### Mostly automatic installation
 
-`$ react-native link react-native-react-native-ios-lib-demo`
+`$ react-native link react-native-ios-lib-demo`
 
 ### Manual installation
 
@@ -22,7 +22,7 @@
 
 ## Usage
 ```javascript
-import RNReactNativeIosLibDemo from 'react-native-react-native-ios-lib-demo';
+import RNReactNativeIosLibDemo from 'react-native-ios-lib-demo';
 
 // TODO: What to do with the module?
 RNReactNativeIosLibDemo;
